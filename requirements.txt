@@ -1,0 +1,6 @@
+streamlit>=1.37,<2
+snowflake-connector-python>=3.12
+pandas>=2.0
+plotly>=5.20
+python-dotenv>=1.0
+bcrypt>=4.1
